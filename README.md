@@ -6,7 +6,7 @@ Existem diversas possibilidades de aplicações financeiras disponíveis no merc
 A diversificação de investimentos é uma estratégia muito aplicada para reduzir os riscos no aporte de recursos. Visando setores diferentes, ativos distintos e mercados variados.
 
 Este trabalho mostra como o risco de um investimento pode ser reduzido por meio da diversificação da carteira.
-Foi considerado uma carteira de ações de 9 empresas que um investidor possui. São elas: Arezzo, B3, Klabin, Localiza, Multiplan, Petrobras, Rede Atacadão, SulAmerica e Vale.
+Foi considerado uma carteira de ações de 9 empresas que um investidor possui. São elas: Arezzo, B3, Klabin, Localiza, Multiplan, Petrobras, Rede Atacadão, SulAmerica e Vale. Os dados foram retirados da base da Escola Preditiva Analytics.
 
 Abaixo temos a variação do preço dos Ativos ao longo do período de agosto de 2019 a julho de 2021. 
 
